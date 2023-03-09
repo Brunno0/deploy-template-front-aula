@@ -12,5 +12,6 @@ https://github.com/labenuexercicios/deploy-template-backend
 4. Baixe o repositório usando: git clone url-copiada.
 5. Abra a pasta no vscode. Vamos codar!
 
-Deploy test front end: https://br-test-deploy.surge.sh/login 
+Deploy test front end: https://br-test-deploy.surge.sh/login
+
 Deploy test back-end: https://deploy-template-backend-render-br.onrender.com
